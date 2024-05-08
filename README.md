@@ -41,8 +41,4 @@ Gen AI is a project focused on generating CIFAR-10-like images using Generative 
 - GPU acceleration is recommended for efficient training.
 - Contributions are welcome! Fork the repository, make improvements, and submit pull requests.
 
-## Screenshots
-![Image 1](screenshots/screenshot1.png)
-![Image 2](screenshots/screenshot2.png)
-![Image 3](screenshots/screenshot3.png)
 
